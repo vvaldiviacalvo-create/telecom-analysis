@@ -54,18 +54,14 @@ El análisis combina tres conjuntos de datos principales estructurados en format
 
 ---
 
-## 🚀 Cómo Ejecutar el Notebook desde Jupyter Notebook Local
+## 🚀 Cómo Abrir el Notebook en Google Colab
+Haz click en el siguiente botón:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_ENLACE_DE_COLAB_AQUÍ](https://colab.research.google.com/drive/1ew62ChhqDdkdlvfgJtAg_NWTWSzR5oZp?usp=sharing))
 
-1. Clona este repositorio en tu máquina:
-   ```bash
-   git clone [https://github.com/tu-usuario/telecom-analysis.git](https://github.com/tu-usuario/telecom-analysiss.git)
-2. Instala las librerías necesarias en tu entorno de Python (se recomienda usar un entorno virtual):
-   ```bash
-  pip install pandas numpy matplotlib seaborn
-4. Inicia el servidor de Jupyter:
-  ```bash
-  jupyter notebook
-5. Abre el archivo del proyecto y ejecuta todas las celdas en orden jerárquico.
+O:
+1. Abre el archivo .ipynb
+2. Ejecuta las celdas en orden
+3. El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
 
 ## 🚀 Guía corta de reproducción
 
