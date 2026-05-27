@@ -56,7 +56,8 @@ El análisis combina tres conjuntos de datos principales estructurados en format
 
 ## 🚀 Cómo Abrir el Notebook en Google Colab
 Haz click en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_ENLACE_DE_COLAB_AQUÍ](https://colab.research.google.com/drive/1ew62ChhqDdkdlvfgJtAg_NWTWSzR5oZp?usp=sharing))
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ew62ChhqDdkdlvfgJtAg_NWTWSzR5oZp?usp=sharing)
 
 O:
 1. Abre el archivo .ipynb
